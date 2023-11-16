@@ -12,5 +12,5 @@ shodan>=1.13.0
 tld>=0.9.3
 trans>=2.1.0
 validator_collection
-selenium>=3.141.0
+selenium>=4.15.1
 censys==2.0.0
