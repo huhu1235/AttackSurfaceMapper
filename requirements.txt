@@ -1,7 +1,7 @@
 beautifulsoup4>=4.6.3
 colorama>=0.3.9
 dnslib>=0.9.10
-dnspython>=1.15.0
+dnspython>=2.6.0rc1
 ipwhois>=1.1.0
 netaddr>=0.7.19
 pymongo==3.8.0
