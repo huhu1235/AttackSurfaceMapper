@@ -14,3 +14,4 @@ trans>=2.1.0
 validator_collection
 selenium>=3.141.0
 censys==2.0.0
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
